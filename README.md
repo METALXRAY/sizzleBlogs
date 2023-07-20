@@ -1,18 +1,11 @@
-# Soo you want to create a blog with nextjs 13?
-
-[![Build and Deploy a Blog with Next.js 13 | React, Tailwind.css, Sanity.io | Tutorial 2023](https://img.youtube.com/vi/MqmzrQ1MNG8/0.jpg)](https://www.youtube.com/watch?v=MqmzrQ1MNG8)
-
-
--------------
-
-
+---
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind.css](https://tailwindcss.com/)
 - [Sanity.io](https://www.sanity.io/)
 
-
   ### Commands you will need
+
 ```sh
 npm install -D @tailwindcss/typography
 
@@ -22,7 +15,6 @@ npm install -D @tailwindcss/typography
 npm install @portabletext/react @sanity/image-url next-sanity next-themes
 
 ```
-
 
 ## Deployment
 
